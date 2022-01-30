@@ -3,6 +3,7 @@ body {
 }
 
 hr {
+  border-style: groove;
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
@@ -15,5 +16,5 @@ h1 {
 }
 
 h3 {
-  color: red;
+  color: 2EB086;
 }
